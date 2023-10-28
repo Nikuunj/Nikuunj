@@ -43,3 +43,6 @@
 <br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikuunj&" alt="nikuunj" /></p>
+
+[![An image of @nikuunj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikuunj)](https://holopin.io/@nikuunj)
+
