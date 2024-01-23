@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **html5, css3, boottrap5, JavaScript, Reactjs**
+- 💬 Ask me about **JavaScript, Reactjs**
 
 - 📫 How to reach me **mnikunj262@gmail.com**
 
