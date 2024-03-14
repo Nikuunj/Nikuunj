@@ -6,7 +6,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <br><br><br><br>
-<img align="right"  src="https://imgs.search.brave.com/W6o7LbTdkaGOdMBi7Jdo6rvoU-ruKoVPQ5m7kksPoBo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/RDJIMGhQbHRPZFlB/QUFBZC9nb2xkZW4t/Ym95LWZha2Uta2V5/Ym9hcmQtcHJvZ3Jh/bWluZy1jb2Rpbmct/cGFwZXItYm9vay5n/aWY.gif" alt="code"  width="400" /> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikuunj&label=Profile%20views&color=0e75b6&style=flat" alt="nikuunj" /> </p>
@@ -38,6 +37,7 @@
 
 
 
+<br> <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikuunj&show_icons=true&locale=en" alt="nikuunj" /></p>
 <br><br><br><br><br><br><br><br>
