@@ -1,14 +1,13 @@
-[![MasterHead](https://imgs.search.brave.com/bMjKdb41dKG7qKB3b0iTVOEbLKWVJBAqThUTz_a1ADw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy82MzU4NC1j/b2Rpbmctd2FsbHBh/cGVyLTE5MjB4MTA4/MC13YWxscGFwZXIt/Y29sbGVjdGlvbnMu/anBn)](https://github.com/Nikuunj)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nikunj....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Nikuunj Makwana</h1>
-
-
-<h3 align="center">A passionate frontend developer</h3>
-
-<br><br><br><br>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikuunj&label=Profile%20views&color=0e75b6&style=flat" alt="nikuunj" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Nikuunj/count.svg" />
+</p>
 
 - 🌱 I’m currently learning **Reactjs**
 
