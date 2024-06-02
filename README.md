@@ -9,6 +9,8 @@
   <img src="https://profile-counter.glitch.me/Nikuunj/count.svg" />
 </p>
 
+![developer](developer.svg)
+
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **JavaScript, Reactjs**
