@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **JavaScript, Reactjs**
+  
+- 📈 Also focussed on improving my Data Structures and Algorithms and Problem-Solving Skills`.
 
 - 📫 How to reach me **mnikunj262@gmail.com**
 
