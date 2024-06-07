@@ -11,7 +11,7 @@
 
 ![developer](developer.svg)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nextjs, aws**
 
 - 💬 Ask me about **JavaScript, Reactjs**
   
