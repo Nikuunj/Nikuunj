@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
   <a href="https://nikunj-portfolio.vercel.app/" target="blank">
-    <img src="https://drive.google.com/file/d/1KJt0PVDV06ZUAygn2PT-qC-Z__nTUMma/view?usp=sharing" /><br
+    <img src="webicon.png"  width="55"/><br
   </a>
   
 </p>
