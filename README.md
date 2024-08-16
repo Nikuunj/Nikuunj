@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/makwana-nikunj" target="blank">
+  <a href="https://linkedin.com/in/makwana-nikunj" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
-  <a href="https://nikunj-portfolio.vercel.app/" target="blank">
+  <a href="https://nikunj-portfolio.vercel.app/" target="_blank">
     <img src="webicon.png"  width="55"/><br
   </a>
   
