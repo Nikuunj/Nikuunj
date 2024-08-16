@@ -24,8 +24,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/makwana-nikunj" target="blank">
-    <img align="center" src="https://imgs.search.brave.com/uGDtHsxME6trYi3Pg1IQoYBs0ZNStLg4fOwcz9gYrwo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="makwana-nikunj" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+  <a href="https://nikunj-portfolio.vercel.app/" target="blank">
+    <img src="https://drive.google.com/file/d/1KJt0PVDV06ZUAygn2PT-qC-Z__nTUMma/view?usp=sharing" /><br
   </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
