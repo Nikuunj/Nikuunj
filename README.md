@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mnikunj262@gmail.com**
 
-- ⚡ Fun fact **DO IT**
+- ⚡ fact **Life is Unfair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
