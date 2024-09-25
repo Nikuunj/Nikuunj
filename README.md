@@ -4,10 +4,7 @@
   </a>
 </h1> 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nikuunj/count.svg" />
-</p>
+
 
 ![developer](developer.svg)
 
