@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **WrbRTC, aws**
 
-- 💬 Ask me about **JavaScript, Reactjs**
+- 💬 Ask me about **Typescript, Reactjs**
   
 - 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
 
