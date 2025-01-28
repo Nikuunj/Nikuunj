@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nikunj....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</h1> 
 
 
 
@@ -10,12 +10,8 @@
 
 - 🌱 I’m currently learning **WrbRTC, aws**
 
-<<<<<<< HEAD
-- 💬 Ask me about **JavaScript, Reactjs**
-=======
 - 💬 Ask me about **Typescript, Reactjs**
   
->>>>>>> cfc6ea185793770594f74d9e116d1abab0195601
 - 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
 
 - 📫 How to reach me **mnikunj262@gmail.com**
@@ -56,3 +52,4 @@
 <br><br><br><br><br><br><br><br><br><>
   
 [![An image of @nikuunj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikuunj)](https://holopin.io/@nikuunj)
+
