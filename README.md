@@ -4,29 +4,31 @@
   </a>
 </h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nikuunj/count.svg" />
-</p>
+
 
 ![developer](developer.svg)
 
-- 🌱 I’m currently learning **Nextjs, aws**
+- 🌱 I’m currently learning **WrbRTC, aws**
 
+<<<<<<< HEAD
 - 💬 Ask me about **JavaScript, Reactjs**
+=======
+- 💬 Ask me about **Typescript, Reactjs**
+  
+>>>>>>> cfc6ea185793770594f74d9e116d1abab0195601
 - 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
 
 - 📫 How to reach me **mnikunj262@gmail.com**
 
-- ⚡ Fun fact **DO IT**
+- ⚡ fact **Life is Unfair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/makwana-nikunj" target="blank">
+  <a href="https://linkedin.com/in/makwana-nikunj" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
-  <a href="https://nikunj-portfolio.vercel.app/" target="blank">
-    <img src="https://drive.google.com/file/d/1KJt0PVDV06ZUAygn2PT-qC-Z__nTUMma/view?usp=sharing" /><br
+  <a href="https://nikunj-portfolio.vercel.app/" target="_blank">
+    <img src="webicon.png"  width="55"/><br
   </a>
   
 </p>
@@ -34,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
     <br>
     <br>
     <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/media/e2e593ebfc6ae6d01921e4b3e2482586.gif" width="64" alt="Demo" style="border-radius: 8px;">
