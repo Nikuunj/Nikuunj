@@ -47,9 +47,6 @@
 <br><br><br><br><br><br><br><>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikuunj&show_icons=true&locale=en" alt="nikuunj" /></p>
 <br><br><br><br><br><br><br><br><>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikuunj&" alt="nikuunj" /></p>
-<br><br><br><br><br><br><br><br><br><>
   
 [![An image of @nikuunj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikuunj)](https://holopin.io/@nikuunj)
 
