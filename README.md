@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,express,jwt,react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
     <br>
     <br>
     <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/media/e2e593ebfc6ae6d01921e4b3e2482586.gif" width="64" alt="Demo" style="border-radius: 8px;">
