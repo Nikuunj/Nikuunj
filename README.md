@@ -28,6 +28,7 @@
   </a>
   
 </p>
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,14 +40,15 @@
     <img src="https://skillicons.dev/icons?i=vite,npm,postman,mongodb,firebase,mysql,jquery" /><br>
   </div>
 </p>
-<>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikuunj&show_icons=true&locale=en&layout=compact" alt="nikuunj" />
-
+<hr />
+  <div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nikuunj&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Nikuunj&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nikuunj&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<hr />
 <br>
-<br><br><br><br><br><br><br><>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikuunj&show_icons=true&locale=en" alt="nikuunj" /></p>
-<br><br><br><br><br><br><br><br><>
   
 [![An image of @nikuunj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikuunj)](https://holopin.io/@nikuunj)
 
