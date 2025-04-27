@@ -8,7 +8,7 @@
 
 ![developer](developer.svg)
 
-- 🌱 I’m currently learning **WrbRTC, aws**
+- 🌱 I’m currently learning **WrbRTC, aws** 
 
 - 💬 Ask me about **Typescript, Reactjs**
   
