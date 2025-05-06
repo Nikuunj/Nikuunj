@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **WrbRTC, aws** 
 
-- 💬 Ask me about **Typescript, Reactjs**
+- 💬 Don't repeat your self
   
 - 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
 
@@ -34,11 +34,11 @@
 ## **Languages and Tools:**
 <p align="left">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,prisma,java,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
     <br>
     <br>
     <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/media/e2e593ebfc6ae6d01921e4b3e2482586.gif" width="64" alt="Demo" style="border-radius: 8px;">
-    <img src="https://skillicons.dev/icons?i=vite,npm,postman,mongodb,firebase,mysql,jquery" /><br>
+    <img src="https://skillicons.dev/icons?i=vite,npm,postman,postgres,mongodb,mysql" /><br>
   </div>
 </p>
 
