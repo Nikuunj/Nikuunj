@@ -4,17 +4,18 @@
   </a>
 </h1> 
 
+[![](https://komarev.com/ghpvc/?username=Nikuunj&color=blueviolet&style=for-the-badge)](https://github.com/Nikuunj)
  
 
 ![developer](developer.svg)
 
-- 🌱 I’m currently learning **WrbRTC, aws** 
+- 🌱 I’m currently learning **Web3, Rust** 
 
 - 💬 Don't repeat your self
   
 - 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
 
-- 📫 How to reach me **mnikunj262@gmail.com**
+- 📫 How to reach me **mnikunj2622@gmail.com**
 
 - ⚡ fact **Life is Unfair**
 
