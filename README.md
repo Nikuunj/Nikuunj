@@ -9,7 +9,7 @@
 
 ![developer](developer.svg)
 
-- 🌱 I’m currently learning **Web3, Rust** 
+- 🌱 I’m currently exploring **Web3** 
 
 - 💬 Don't repeat your self
   
