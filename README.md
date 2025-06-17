@@ -13,7 +13,7 @@
 
 - 💬 Don't repeat your self
   
-- 📈 Also focused on improving my Data Structures and Algorithms and Problem-Solving Skills.
+- 📈 focused on Solana Environment.
 
 - 📫 How to reach me **mnikunj2622@gmail.com**
 
