@@ -9,9 +9,9 @@
 [![](https://komarev.com/ghpvc/?username=Nikuunj&color=blueviolet&style=for-the-badge)](https://github.com/Nikuunj)
  
 
-![developer](developer.svg)
+ <!-- ![developer](developer.svg) -->
 
-- 🌱 I’m currently exploring **Web3** 
+- 🌱 Exploring **Web3** 
 
 - 💬 Don't repeat your self
   
