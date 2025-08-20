@@ -38,11 +38,9 @@
 ## **Languages and Tools:**
 <p align="left">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,prisma,java,nodejs,express,react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <br>
-    <br>
-    <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/media/e2e593ebfc6ae6d01921e4b3e2482586.gif" width="64" alt="Demo" style="border-radius: 8px;">
-    <img src="https://skillicons.dev/icons?i=vite,npm,postman,postgres,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,prisma,nodejs,express,nextjs,tailwind" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vite,npm,postman,postgres,mongodb,mysql,ipfs,docker,git,java" /><br>
   </div>
 </p>
 
