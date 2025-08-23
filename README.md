@@ -38,7 +38,7 @@
 ## **Languages and Tools:**
 <p align="left">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,prisma,nodejs,express,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,rust,solidity,prisma,nodejs,express,nextjs,tailwind" />
     <br />
     <img src="https://skillicons.dev/icons?i=vite,npm,postman,postgres,mongodb,mysql,ipfs,docker,git,java" /><br>
   </div>
