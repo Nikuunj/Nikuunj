@@ -14,15 +14,8 @@
 
  <!-- ![developer](developer.svg) -->
 
-- 🌱 Exploring **Web3** 
-
-- 💬 Don't repeat your self
-  
-- 📈 focused on Solana Environment.
 
 - 📫 How to reach me **mnikunj2622@gmail.com**
-
-- ⚡ fact **Life is Unfair**
 
 
 ## **🌐 Connect With Me:**
