@@ -26,8 +26,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/makwana-nikunj" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  
-  <a href="https://nikunj-portfolio.vercel.app/" target="_blank">
+  </a> 
+  <a href="https://nikunj.online" target="_blank">
     <img src="webicon.png"  width="55"/><br
   </a>
   
